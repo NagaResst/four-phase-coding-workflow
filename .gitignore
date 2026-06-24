@@ -17,3 +17,6 @@
 .project
 .classpath
 .settings/
+
+# Obsidian
+.obsidian/
